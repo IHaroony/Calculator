@@ -1,5 +1,9 @@
 # Calculator
 
+![image](https://github.com/user-attachments/assets/08629b3b-9884-4682-b42e-8d5911fc2036)
+
+
+
 # Overview
 This JavaScript program is a simple command-line calculator that allows users to perform basic arithmetic operations. It supports addition, subtraction, multiplication, and division, and provides a loop to let users perform multiple calculations.
 
